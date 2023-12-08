@@ -46,15 +46,19 @@ So it can be easily toggled on/off, with mode 0 and 4 being for disable all/enab
 
 ### EntityUtils
 
-Enables taking control of other Entities in Scrapland
+Enables taking control over other Entities in Scrapland.
 For example usage see https://www.youtube.com/watch?v=0d1OkaUR5YE
 
 List of commands:
 
- - `/EntityUtils.unfree` - undoes `/free` command
- - `/EntityUtils.imyou` - takes over control over entity that you look awt
+ - `/EntityUtils.unfree` - undoes the `/free` command
+ - `/EntityUtils.imyou` - takes over control of the entity that you look at
  - `/EntityUtils.imme` - return control to Di-Tritus
- - `/EntityUtils.makeFriendOrEnemy <entity name> <list>`  Finds entity with specified name and adds it to friends/enemies. If <list> is not specified, entity will be added to friends list
- - `/EntityUtils.youFriend` - makes entity that you look at friend
- - `/EntityUtils.yourName` - prints name of entity that you look at
- - `/EntityUtils.createFriendOrEnemy <name> <ship type> <engine type> <AI profile> <list>` - spawns entity with specified parameters
+ - `/EntityUtils.makeFriendOrEnemy <entity name> <list>`  Finds the entity with the specified name and adds it to friends/enemies. If <list> is not specified, the entity will be added to the friends list
+ - `/EntityUtils.youFriend` - makes the entity that you look at a friend
+ - `/EntityUtils.yourName` - prints the name of the entity that you look at
+ - `/EntityUtils.createFriendOrEnemy <name> <ship type> <engine type> <AI profile> <list>` - spawns an entity with the specified parameters
+
+Check out some other Scrapland tools and documentation at [https://github.com/ReScrap](https://github.com/ReScrap)
+
+Join to our [Discord server](discord.gg/eBw2Pzpu4w)
